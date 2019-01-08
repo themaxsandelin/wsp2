@@ -4,7 +4,8 @@
 Welcome to the course Webbserverprogrammering 2! 🙌
 
 
-
+## Contact details
+If you have any questions or need to get in touch with me, you can find me on the official [Slack channel](https://sw-molndal.slack.com), or reach me directly via email, [max@maxsandelin.com](mailto:max@maxsandelin.com).
 
 ## License
 [MIT](LICENSE) © [Max Sandelin](https://github.com/themaxsandelin)
