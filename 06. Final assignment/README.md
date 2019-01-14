@@ -33,7 +33,7 @@ The API should have the following routes:
         {
             "success": true,
             "credentials": {
-                "username": "",
+                "key": "",
                 "secret": ""
             }
         }
@@ -49,8 +49,8 @@ The API should have the following routes:
         {
             "success": true,
             "credentials": {
-                "username": "",
-                "password": ""
+                "key": "",
+                "secret": ""
             }
         }
         ```
@@ -98,6 +98,7 @@ The API should have the following routes:
         ```JSON
         [
             {
+                "uuid": "jo1i2j3o1i2j3oi1j23",
                 "content": "Hello, world!",
                 "created": "2017-04-20T11:32:00.000-04:00",
                 "author": {
@@ -106,6 +107,7 @@ The API should have the following routes:
                 }
             },
             {
+                "uuid": "ok1j2io3joi1j23oin124",
                 "content": "Good evening, world!",
                 "created": "2017-04-20T11:32:00.000-04:00",
                 "author": {
@@ -114,6 +116,7 @@ The API should have the following routes:
                 }
             },
             {
+                "uuid": "uh34i53h45iu2iuh34",
                 "content": "Good night, world!",
                 "created": "2017-04-20T11:32:00.000-04:00",
                 "author": {
