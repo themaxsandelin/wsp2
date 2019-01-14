@@ -1,5 +1,5 @@
 # 00. Getting started
-<img src="https://camo.githubusercontent.com/757fdafbb598bd16131153314bf2f35967dffd12/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f6875417856304466634c5478566836772f67697068792e676966" alt="Much to learn you still have.">
+<img src="https://camo.githubusercontent.com/757fdafbb598bd16131153314bf2f35967dffd12/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f6875417856304466634c5478566836772f67697068792e676966" alt="Much to learn you still have." width="600">
 
 Hello, and welcome to the beautiful world of Node.js. In this lesson we will go through the basics of Node and how you can get up and running and start hacking on your own. 👨‍💻
 

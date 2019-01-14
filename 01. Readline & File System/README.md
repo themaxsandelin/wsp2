@@ -1,5 +1,5 @@
 # 01. Readline & File System
-<img src="https://camo.githubusercontent.com/ec69f3fe6db811a5c714b4cf0de60d52aec00c1b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c706b42415544673533464938784c6d67312f67697068792e77656270" alt="Here we go."><br>
+<img src="https://camo.githubusercontent.com/ec69f3fe6db811a5c714b4cf0de60d52aec00c1b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c706b42415544673533464938784c6d67312f67697068792e77656270" alt="Here we go." width="600"><br>
 
 All right let's write our first application (that doesn't just say `"Hello, world!"`). In this lesson we'll be using the [Readline](https://nodejs.org/docs/latest/api/readline.html) and [File System](https://nodejs.org/docs/latest/api/fs.html) modules and learn how to take user input and store it in the file system.
 
