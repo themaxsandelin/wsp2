@@ -1,6 +1,8 @@
 const express = require('express')
+const bodyParser = require('body-parser')
 
 const app = express()
+app.use(bodyParser.json())
 app.listen(3000, () => {
   console.log('Server is up and running! 😎')
 })
@@ -45,9 +47,7 @@ app.get('/', (req, res) => {
 })
 
 app.post('/post', (req, res) => {
-  res.json({
-    message: 'You posted at meh. Wai? :c'
-  })
+  res.json(req.body)
 })
 
 app.get('*', (req, res) => {

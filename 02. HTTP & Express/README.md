@@ -38,6 +38,18 @@ In this lesson we are taking a look at [NPM](https://npmjs.org) (Node Package Ma
 6.
     Add a new POST route called `/books` that accepts two parameters, `title` and `author`. As long as both parameters have a value, it should add a new book in the form of an object to the list of books in the `books.json` file. When visiting the GET route `/books`, the new book should show up.
 
+    > I wrote this assignment without realising we will be going through middlewares in the next lesson. So you'll have to do some of your own research.
+
+    Use the [body-parser](https://www.npmjs.com/package/body-parser) middleware for Express and include it in your script. Then use the JSON method to parse the body as JSON. Example:
+
+    ```javascript
+    const express = require('express')
+    const bodyParser = require('body-parser')
+
+    const app = express()
+    app.use(bodyParser.json())
+    ```
+
     If any value or parameter is missing, please use a proper [HTTP status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) to describe the error and return an error message in `String` format.
 
     If the request was successful, return a JSON string as a body with the contents:
