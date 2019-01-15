@@ -8,6 +8,7 @@ if (args.length) {
   people = people.slice(0, numberOfPeople)
   args.splice(0, 1)
   if (args.length) {
+    args = args.map(arg => arg.toLowerCase())
     people = people.filter((person) => {
       const keys = Object.keys(person)
       keys.forEach((key) => {
