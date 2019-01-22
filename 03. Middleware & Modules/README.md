@@ -100,8 +100,6 @@ In this lesson we are going to learn how to build our very own JavaScript module
 
     Then upgrade your authorization middleware to check the values from the `authorization` header to match any of the pairs in your JSON file instead of any hard coded values. (Note: The `/register` route should accept requests without authorization.)
 
-8.
-
 
 ## Resources
 
