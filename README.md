@@ -14,9 +14,9 @@ At the end of the course you will be given a final assignment based on the lesso
 
 ## Course plan
 
-| Lesson 1 (08/01/2019)  | Lesson 2 (15/01/2019)       | Lesson 3 (22/01/2019)          | Lesson 4 (29/01/2019) | Lesson 5 (05/02/2019)     | Lesson 6 (12/02/2019) |
-| ---------------------- | --------------------------- | ------------------------------ | --------------------- | ------------------------- | --------------------- |
-| Readline & File System | NPM, Rest API's & ExpressJS | Modules, Middleware & Promises | ORM with SequelizeJS  | MVC & User authentication | Final assignment      |
+| Lesson 1 (08/01/2019)  | Lesson 2 (15/01/2019)       | Lesson 3 (22/01/2019)                | Lesson 4 (29/01/2019) | Lesson 5 (05/02/2019)       | Lesson 6 (12/02/2019) |
+| ---------------------- | --------------------------- | ------------------------------------ | --------------------- | --------------------------- | --------------------- |
+| Readline & File System | NPM, Rest API's & ExpressJS | Modules, Middleware & Authentication | ORM with SequelizeJS  | Model View Controller (MVC) | Final assignment      |
 
 
 ## Contact details
