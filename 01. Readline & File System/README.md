@@ -3,6 +3,8 @@
 
 All right let's write our first application (that doesn't just say `"Hello, world!"`). In this lesson we'll be using the [Readline](https://nodejs.org/docs/latest/api/readline.html) and [File System](https://nodejs.org/docs/latest/api/fs.html) modules and learn how to take user input and store it in the file system.
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=R9WALL-LAw0)
+
 ## Assignments
 
 1.

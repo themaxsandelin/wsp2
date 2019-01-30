@@ -3,6 +3,8 @@
 
 In this lesson we are taking a look at [NPM](https://npmjs.org) (Node Package Manager) and install our first module. We're going to learn about the HTTP protocol, the different [request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) that exist and [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). We're going to look at what [CRUD](https://www.codecademy.com/articles/what-is-crud) and [REST](https://www.codecademy.com/articles/what-is-rest) is, and what the differences are between the two. Finally we're going to build our very own web server and start working on an API using [Express](https://expressjs.com/).
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=LlOhUYFrhIM)
+
 ## Assignments
 
 1.

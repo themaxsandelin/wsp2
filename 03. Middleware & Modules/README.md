@@ -3,6 +3,8 @@
 
 In this lesson we are going to learn how to build our very own JavaScript modules in Node, how to use middleware in our Express app(s) and finally how to authenticate a request using the authorization header.
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=wSxeYccmGSI)
+
 ## Assignments
 
 1.
