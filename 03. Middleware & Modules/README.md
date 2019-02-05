@@ -70,7 +70,7 @@ Instructional video (in Swedish) based on our live lesson: [YouTube video](https
     ```javascript
     const express = require('express')
     const app = express()
-    app.use(require('./secret-routes.js'))
+    app.use('/secret', require('./secret-routes.js'))
     app.listen(1337, () => {
       console.log('Server up and running!')
     })
@@ -85,7 +85,7 @@ Instructional video (in Swedish) based on our live lesson: [YouTube video](https
     const router = require('express').Router()
     router.use(require('./auth-middleware.js'))
 
-    router.get('/secret', (req, res) => {
+    router.get('/', (req, res) => {
       res.json({ secretStuff: 'Mhmm.' })
     })
 
