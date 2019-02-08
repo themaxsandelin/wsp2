@@ -4,9 +4,9 @@
 In this course you will learn how to work with and develop modern web applications in Node.js. Apart from the basics in Node.js, such as running an application from the command prompt, you will learn about:
 - HTTP and ExpressJS
 - Rest API's
-- Middlewares, modules and template enginges
+- Middlewares and modules
 - ORM and MVC
-- Cookies and user authentication
+- User authentication
 
 At the end of the course you will be given a final assignment based on the lessons and the material we've gone through after these 6 weeks. The assignment is mandatory, and will be graded based on the work you do and how self-driven you are in the process.
 
