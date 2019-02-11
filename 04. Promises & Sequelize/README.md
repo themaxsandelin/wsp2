@@ -3,6 +3,8 @@
 
 I dagens lektion tar vi en titt på ett relativt nytt koncept i JavaScript, [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), en ny typ av asynkron operation som lovar ett resultat som antingen kan vara ett "uppföljt" (`resolve`) löfte, eller ett "avvisat" (`reject`) löfte. Vi gräver oss även ner i vad som kallas ORM, vilket står för "objekt-relationell mappning" (object-relational mapping), och använder oss av ett ORM ramverk i Node.js som kallas [Sequelize](http://docs.sequelizejs.com/).
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=G9Xk0MXNIs4)
+
 ## Uppgifter
 
 1.

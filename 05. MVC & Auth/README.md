@@ -3,6 +3,8 @@
 
 I dagens lektion skall vi knyta ihop säcken för kursen Node.js med en genomgång av MVC arkitektur och view engines i Express, samt hur ni implementerar en säker användar-autentisering med hjälp av [crypto](https://nodejs.org/api/crypto.html) modulen i Node.js.
 
+Instructional video (in Swedish) based on our live lesson: [YouTube video](https://www.youtube.com/watch?v=jgC81f0ZCUs)
+
 ## Uppgifter
 
 1.
