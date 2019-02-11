@@ -70,7 +70,7 @@ I dagens lektion skall vi knyta ihop säcken för kursen Node.js med en genomgå
 ## Extrauppgifter
 
 1.
-    Separera dina modeller från `database.js`till sena egna `.js` filer som alla har samma namn som den modell de innehåller (ex. `User.js`innehåller `User` modellen). Använd sedan [sequelize.import](http://docs.sequelizejs.com/manual/tutorial/models-definition.html#import) för att importera modellerna från sina filer in i din databas.
+    Separera dina modeller från `database.js` till sena egna `.js` filer som alla har samma namn som den modell de innehåller (ex. `User.js` innehåller `User` modellen). Använd sedan [sequelize.import](http://docs.sequelizejs.com/manual/tutorial/models-definition.html#import) för att importera modellerna från sina filer in i din databas.
 
 2.
     Skapa en `/models` folder och flytta över dina modeller in i den mappen. Flytta sedan över din `database.js` in i samma mapp och döp om den till `index.js`. Utöka sedan din `index.js` (föredetta `database.js`) så att den läser av alla modell-filer som finns i mappen och lägger in dessa dynamiskt med hjälp av [sequelize.import](http://docs.sequelizejs.com/manual/tutorial/models-definition.html#import) (hint: [fs.readdirSync](https://nodejs.org/api/fs.html#fs_fs_readdirsync_path_options)).
