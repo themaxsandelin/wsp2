@@ -61,7 +61,7 @@ I dagens lektion skall vi knyta ihop säcken för kursen Node.js med en genomgå
     Om allt gick vägen skall du som vanligt skicka tillbaka en `{ success: true }`. Annars en passande HTTP status kod samt en text sträng som felmeddelande.
 
 6.
-    Skapa en ny route i `index.js` för `DELETE`requests som använder sig av en dynamisk parameter (ex: `/:username` <- username blir dynamisk parameter och hamnar under `req.params.username`). Denna skall hantera borttagningen av en användare och kommer kräva att man använder sig av `Basic auth` header där användarnamnet och lösenordet måste överensstämma med det som står på användaren i databasen.
+    Skapa en ny route i `index.js` för `DELETE` requests som använder sig av en dynamisk parameter (ex: `/:username` <- username blir dynamisk parameter och hamnar under `req.params.username`). Denna skall hantera borttagningen av en användare och kommer kräva att man använder sig av `Basic auth` header där användarnamnet och lösenordet måste överensstämma med det som står på användaren i databasen.
 
     Om det inte gör det, skall man inte kunna ta bort användaren och därmed få en passande HTTP status kod och ett felmeddelande i text form.
 
