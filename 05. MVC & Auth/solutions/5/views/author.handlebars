@@ -1,0 +1,8 @@
+<h1>List of authors</h1>
+<ul>
+  {{#each authors as |author i|}}
+    <li>
+      <a href="/{{ author }}">{{ author }}</a>
+    </li>
+  {{/each}}
+</ul>
